@@ -7,5 +7,7 @@ This repository contains the projects that I have built using React.js. Each pro
 
 
 1.To create an application: npx create-react-app appl_name
+
 2.To access it: cd appl_name
+
 3.To start the application: npm start
